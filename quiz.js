@@ -54,3 +54,6 @@ export const quiz = [
 
 export default quiz;
 
+hello and tschüss
+
+quizzzzzzz
